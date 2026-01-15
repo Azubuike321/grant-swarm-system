@@ -1,0 +1,16 @@
+{
+  "project": "Grant-Swarm-System",
+  "security_stack": {
+    "privacy": "iExec TEE (Intel SGX)",
+    "storage": "Arweave / Irys",
+    "verification": "Deterministic RISC-V Compute Trace"
+  },
+  "live_proofs": [
+    {
+      "type": "Arweave_Audit_Log",
+      "id": "tgK1l9ZwErsHNYPzxPwAYM9kGiwqP2f0YZqFjvE4Bi0",
+      "url": "https://viewblock.io/arweave/tx/tgK1l9ZwErsHNYPzxPwAYM9kGiwqP2f0YZqFjvE4Bi0"
+    }
+  ],
+  "orchestrator_wallet": "j8xI_IZpGCmXgFrpRkoSB8T8VH1YjJlUfh7dOcfHf3k"
+}
